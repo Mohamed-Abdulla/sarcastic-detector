@@ -1,0 +1,34 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# # Data files
+# data/
+# *.csv
+# *.tsv
+
+# # Model files
+# *.pkl
+# *.h5
+# *.hdf5
+
+# Logs
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
